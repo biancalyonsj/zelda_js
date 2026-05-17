@@ -3,6 +3,8 @@
 ![image alt](https://github.com/biancalyonsj/zelda_js/blob/e2d031c7bff79fab50890b8b35dd325166aafff5/zelda_homescreen.jpg)
 
 <p>Created a simple recreation of the classic Zelda game using JavaScript</p>
+<p>Check it out here!</p>
+https://biancalyonsj.github.io/zelda_js/
 
 <h2>Concepts Learned</h2>
 <h3>DOM Manipulation & Dynamic UI Rendering</h3>
